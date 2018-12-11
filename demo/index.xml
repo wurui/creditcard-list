@@ -17,35 +17,66 @@
     <data>
         <ecom-products>
             <i>
-                <title>纯色毛绒哈居拖鞋</title>
-                <brief>居家伴侣</brief>
-                <price>19.9</price>
-                <orig_price>29.9</orig_price>
-                <inventory>10</inventory>
-                <category></category>
-                <sold>0</sold>
+                <title>标准信用卡</title>
+                <brief>新用户送 1000积分</brief>
+                
                 <owner>git/wurui</owner>
                 <description></description>
                 <media>
                     <i>
-                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29uhgj9mzTjouwic2tRwkj2Agdb-1000.png</src>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29tt7gkmtTjpj5l12zRtw49Awjz-626.png</src>
                         <type>image</type>
                     </i>
                 </media>
             </i>
             <i>
-                <title>Amozon Kindle7 Paperwhite</title>
-                <brief>最新款　性能强大　阅读伴侣</brief>
-                <price>699</price>
-                <orig_price>899</orig_price>
-                <inventory>10</inventory>
-                <category></category>
-                <sold>0</sold>
+                <title>云蝴蝶信用卡 VISA 黑卡</title>
+                <brief>首年双倍积分</brief>
+       
                 <owner>git/wurui</owner>
                 <description></description>
                 <media>
                     <i>
-                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29uhgj88vTjouwidgxRg5ftA80l-1000.png</src>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29tt7glvcTjpj5kzugR5mxmAvlv-626.png</src>
+                        <type>image</type>
+                    </i>
+                </media>
+            </i>
+            <i>
+                <title>HiYoung 信用卡</title>
+                <brief>首年双倍积分</brief>
+       
+                <owner>git/wurui</owner>
+                <description></description>
+                <media>
+                    <i>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29tt7gmj8Tjpj5kz6kRc7pnAucf-626.png</src>
+                        <type>image</type>
+                    </i>
+                </media>
+            </i>
+            <i>
+                <title>共享单车联名信用卡</title>
+                <brief>月卡半价，送出行套装</brief>
+       
+                <owner>git/wurui</owner>
+                <description></description>
+                <media>
+                    <i>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29tt7gk6jTjpj5l1j9RupuyAslv-626.png</src>
+                        <type>image</type>
+                    </i>
+                </media>
+            </i>
+            <i>
+                <title>奇迹世界联名信用卡</title>
+                <brief>首年双倍积分</brief>
+       
+                <owner>git/wurui</owner>
+                <description></description>
+                <media>
+                    <i>
+                        <src>http://i.oxm1.cc/uploads/git/wurui/img/29tt7gl3zTjpj5l0ltR3s0zAtul-626.png</src>
                         <type>image</type>
                     </i>
                 </media>
