@@ -11,7 +11,7 @@
 	            			<xsl:value-of select="brief"/>
 	            		</p>
 	            		<p>
-	            			<a class="btn" href="{LINK/detail}">立即申请</a>
+	            			<a class="btn skin-bgcolor" href="{LINK/detail}">立即申请</a>
 	            		</p>
 	            	</li>
 	            </xsl:for-each>
