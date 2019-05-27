@@ -3,7 +3,7 @@
         <!-- className 'J_OXMod' required  -->
         <div class="J_OXMod oxmod-creditcard-list" ox-mod="creditcard-list">
             <ul>
-	            <xsl:for-each select="data/ecom-products/i">
+	            <xsl:for-each select="data/info-product/i">
 	            	<li>
 	            		<img style="background-image:url({media/i[type = 'image']/src})" src="http://a.oxm1.cc/img/blank.png" class="mainpic"/>
 	            		<h3 class="title"><xsl:value-of select="title"/></h3>

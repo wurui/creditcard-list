@@ -1,13 +1,14 @@
 {
-  "RULE_VERSION":"20180724",
+  "RULE_VERSION":"20190428",
   "name": "creditcard-list",
   "apiDependencies": [
 	  {
-	    "name": "ecom-products",
+	    "name": "info-product",
 	    "LINK":[
 	    	{
 	    		"name":"detail",
-	    		"title":"查看详情"
+	    		"title":"查看详情",
+	    		"target":"creditcard-detail"
 	    	}
 	    ]
 	  }
