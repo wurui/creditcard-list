@@ -9,6 +9,11 @@
 	    		"name":"detail",
 	    		"title":"查看详情",
 	    		"target":"creditcard-detail"
+	    	},
+	    	{
+	    		"name":"apply",
+	    		"title":"立即申请",
+	    		"target":"user-apply-product"
 	    	}
 	    ]
 	  }

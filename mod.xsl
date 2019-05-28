@@ -5,13 +5,15 @@
             <ul>
 	            <xsl:for-each select="data/info-product/i">
 	            	<li>
-	            		<img style="background-image:url({media/i[type = 'image']/src})" src="http://a.oxm1.cc/img/blank.png" class="mainpic"/>
-	            		<h3 class="title"><xsl:value-of select="title"/></h3>
+	            		<a href="{LINK/detail}">
+		            		<img style="background-image:url({media/i[type = 'image']/src})" src="http://a.oxm1.cc/img/blank.png" class="mainpic"/>
+		            	</a>
+	            		<h3 class="title"><a href="{LINK/detail}"><xsl:value-of select="title"/></a></h3>
 	            		<p class="brief">
-	            			<xsl:value-of select="brief"/>
+	            			<a href="{LINK/detail}"><xsl:value-of select="brief"/></a>
 	            		</p>
 	            		<p>
-	            			<a class="btn skin-bgcolor" href="{LINK/detail}">立即申请</a>
+	            			<a class="btn skin-bgcolor" href="{LINK/apply}">立即申请</a>
 	            		</p>
 	            	</li>
 	            </xsl:for-each>
